@@ -1,0 +1,28 @@
+COFFEE_ORDER
+Merupakan aplikasi pemesanan sederhana yang mencatat segala pemesanan minuman yang dijual di suatu kedai kopi 
+sekaligus menghitung total biaya pemesanan, dengan adanya pemberian diskon terhadap customer yang merupakan
+member di kedai kopi tersebut. 
+
+Fungsi yang tersedia pada aplikasi:
+
+CUSTOMERS
+- melihat cust
+- mengubah data cust
+- menghapus data cust
+
+ORDERS
+- menambahkan pemesanan
+- menghapus pemesanan
+- mengubah pemesanan
+- melihat pemesanan pada hari tertentu
+- melihat total jual pemesanan tertentu
+- melihat total jual pada hari tententu
+
+BEVERAGES
+- melihat semua nama minuman
+- melihat minuman berdasarkan tipe minuman
+- melihat minuman berdasarkan harga
+- menambahkan minuman baru
+- mengubah status minuman ketika out-of-stock
+
+
