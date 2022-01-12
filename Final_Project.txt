@@ -6,23 +6,23 @@ member di kedai kopi tersebut.
 Fungsi yang tersedia pada aplikasi:
 
 CUSTOMERS
-- melihat cust
-- mengubah data cust
-- menghapus data cust
+- membuat admin baru
+- melihat admin
+- mengubah data admin
+- menghapus data admin
 
 ORDERS
 - menambahkan pemesanan
-- menghapus pemesanan
-- mengubah pemesanan
+- melihat order
 - melihat pemesanan pada hari tertentu
-- melihat total jual pemesanan tertentu
-- melihat total jual pada hari tententu
+- menghapus pemesanan
 
 BEVERAGES
+- menambahkan minuman baru
 - melihat semua nama minuman
 - melihat minuman berdasarkan tipe minuman
 - melihat minuman berdasarkan harga
-- menambahkan minuman baru
-- mengubah status minuman ketika out-of-stock
+- mengubah minuman
+- menghapus minuman
 
 
